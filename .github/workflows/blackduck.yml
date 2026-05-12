@@ -1,7 +1,7 @@
 name: Blackduck Scan
 
 env:
-  MAVEN_VERSION: "3.9.11"
+  MAVEN_VERSION: "3.9.15"
 
 on:
   schedule:
